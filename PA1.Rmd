@@ -1,6 +1,6 @@
 
 
-# Personal Activity Monitoring Research and Analysis 1
+# Activity Monitoring Research and Analysis 1
 
 
 ##Setting working directory
