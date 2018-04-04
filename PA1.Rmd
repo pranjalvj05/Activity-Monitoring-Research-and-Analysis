@@ -1,6 +1,6 @@
 
 
-# Activity Monitoring Research and Analysis 1
+# Activity Monitoring Research and Analysis 
 
 
 ##Setting working directory
