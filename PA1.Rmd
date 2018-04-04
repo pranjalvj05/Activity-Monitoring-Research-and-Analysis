@@ -1,4 +1,8 @@
 
+
+# Personal Activity Monitoring Research and Analysis 1
+
+
 ##Setting working directory
 ```{r}
 setwd("C:/Users/ddddd/Reproducible peer 1")
