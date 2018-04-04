@@ -1,4 +1,4 @@
-## Personal Activity Monitoring Research and Analysis
+##  Activity Monitoring Research and Analysis
 
 It is now possible to collect a large amount of data about personal
 movement using activity monitoring devices such as a
